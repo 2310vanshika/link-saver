@@ -6,7 +6,7 @@ A responsive and minimalistic web app to save URLs with auto-generated summaries
 
 ## 🚀 Live Demo
 
-🔗 [Live App on Vercel](https://your-live-link.vercel.app)  
+🔗 [Live App on Vercel](https://link-saver-ruby.vercel.app/)  
 
 ---
 
